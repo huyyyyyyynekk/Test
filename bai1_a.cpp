@@ -4,7 +4,8 @@
 int main() {
     int a, b;
     char pt;
-
+    
+    pritnf("\nHIHI");
     printf ("\nTest case\n");
     printf("Nhap vao hai so nguyen duong a va b: ");
     scanf("%d %d", &a, &b);
